@@ -1,0 +1,18 @@
+{
+  "name": "smilebi",
+  "version": "1.0.0",
+  "description": "Interview Task: Web Data Extraction and Storage Pipeline for Specific Product Data",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  },
+  "dependencies": {
+    "puppeteer": "^22.10.0"
+  }
+}
